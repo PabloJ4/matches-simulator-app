@@ -60,6 +60,7 @@
                 android:contentDescription="@string/cd_home_team"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/tvDescription"
+                tools:ignore="ImageContrastCheck,ImageContrastCheck"
                 tools:srcCompat="@tools:sample/avatars" />
 
             <com.google.android.material.textview.MaterialTextView
