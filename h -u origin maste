@@ -1,0 +1,66 @@
+[33mcommit 0f8f058f0199101510dffcc57152c9d00c7f508f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: PabloJ4 <w.pablo@hotmail.com>
+Date:   Wed Jul 20 19:53:36 2022 -0300
+
+    alterações do projeto
+
+[33mcommit b6deb19602ff750c3be5e2baeb901ed5a478c783[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Venilton FalvoJr <falvojr@gmail.com>
+Date:   Thu Jan 13 07:42:16 2022 -0300
+
+    Update README.md
+
+[33mcommit b605ffdc013df8a7052a883f2c6cad1cecc2e518[m[33m ([m[1;31morigin/release/explorando-o-firebase-para-apps-android-resilientes[m[33m)[m
+Author: Venilton FalvoJr <falvojr@gmail.com>
+Date:   Thu Jan 13 07:40:58 2022 -0300
+
+    Inclusão do Firebase e ajustes finais no App
+
+[33mcommit f1d92d5c8c12a7d4cd52b9fe46edc71e0b03cd7b[m
+Author: Venilton FalvoJr <falvojr@gmail.com>
+Date:   Mon Jan 10 00:49:04 2022 -0300
+
+    Update README.md
+
+[33mcommit 495d72cac76456123ae9adf2d93a6a0026c17dd0[m[33m ([m[1;31morigin/release/java-e-kotlin-juntos-construindo-apps-android[m[33m)[m
+Merge: 30b8edd 9224990
+Author: Venilton FalvoJr <falvojr@gmail.com>
+Date:   Mon Jan 10 00:41:25 2022 -0300
+
+    Merge branch 'main' of github.com:digitalinnovationone/matches-simulator-app
+
+[33mcommit 30b8edd88506b9e0cd0d8febd745d8126e797801[m
+Author: Venilton FalvoJr <falvojr@gmail.com>
+Date:   Mon Jan 10 00:41:04 2022 -0300
+
+    Finalização do App de Simulação de Partidas
+
+[33mcommit 92249901922e0801dcad98486388426a2db744ba[m
+Author: Venilton FalvoJr <falvojr@gmail.com>
+Date:   Thu Jan 6 10:31:49 2022 -0300
+
+    Update README.md
+
+[33mcommit 570f3ee0d10f3171dc59ef9a557da8690cb9d3b6[m[33m ([m[1;31morigin/release/componentes-layouts-ui-ux-em-apps-android[m[33m)[m
+Author: Venilton FalvoJr <falvojr@gmail.com>
+Date:   Thu Jan 6 10:29:16 2022 -0300
+
+    Algumas configs do meu IDE
+
+[33mcommit b27d0b22007f35456f02cc8f41b221a07cc61764[m
+Author: Venilton FalvoJr <falvojr@gmail.com>
+Date:   Thu Jan 6 10:28:02 2022 -0300
+
+    Desenvolvimento dos layouts de listagem e detalhe de partidas.
+
+[33mcommit 39fdec657a5b3c008f2cbd115c763d6a74e01d95[m
+Author: Venilton FalvoJr <falvojr@gmail.com>
+Date:   Tue Jan 4 08:58:27 2022 -0300
+
+    Create README.md
+
+[33mcommit 10fd72a88c6db90ec837660c2fcce59c0011e5e1[m[33m ([m[1;31morigin/release/desenvolvimento-mobile-nativo-para-android[m[33m)[m
+Author: Venilton FalvoJr <falvojr@gmail.com>
+Date:   Mon Jan 3 08:07:26 2022 -0300
+
+    first commit
